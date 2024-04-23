@@ -1,0 +1,32 @@
+body{
+    background: radial-gradient(circle, red, yellow, green);
+}
+form{
+    border: 3px solid black;
+    text-align: center;
+    margin: 10% 30%;
+    padding-top: 3%;
+    padding-bottom: 8%;
+    color: white;
+    background: linear-gradient(black, white);
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+    box-shadow: 25px 25px 25px black;
+}
+button{
+    width: 20%;
+    height: 5vh;
+    background: transparent;
+    color: white;
+    border: 2px solid yellow;
+    border-radius: 10px;
+}
+.texto{
+    background-color: transparent;
+    height: 3.5vh;
+    width: 35%;
+    border: 3px solid yellow;
+    border-radius: 12px;
+    border-style: inset;
+}
